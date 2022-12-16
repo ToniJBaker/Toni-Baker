@@ -5,5 +5,5 @@ I am a full-stack junior developer shifting from Biology Teaching. As a student 
 🔭 I’m currently working on designing and developing first projects<br/>
 🌱 I’m currently learning writing backend services and RESTful APIs in C#<br/>
 👯 I’m looking to collaborate with teams, develop my skills, learn additional programming languages.<br/>
-📫 How to reach me: Linkedin<br/>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/toni-baker/) <br/>
 😄 Pronouns: She/Her
